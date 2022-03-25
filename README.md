@@ -13,6 +13,18 @@ O que funciona no projeto:
 
 Autores do projeto: Carlise, Antônio e Diego
 
+Tecnologias utilizadas:
+React
+StyledComponents
+HTML
+CSS
+Surge
+Visual Studio Code
+
+
+Sites e recursos:
+Canva Lottie
+
 
 
 Imagens do projeto:
