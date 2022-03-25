@@ -5,6 +5,7 @@ O que funciona no projeto:
 - Campo de Busca;
 - Filtro por ordenação;
 - Adicionar na sacola;
+- Remover da Sacola;
 - Filtro por valor máximo e mínimo.
 
 Autores do projeto: Carlise, Antônio e Diego
